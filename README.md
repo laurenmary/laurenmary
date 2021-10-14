@@ -1,4 +1,9 @@
-### Hi there 👋
+## hi there 👋 I'm Lauren Mary
+
+### info
+- pronouns: she/her/hers
+- instruction librarian
+- 💕 zines & diy culture
 
 <!--
 **laurenmary/laurenmary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
